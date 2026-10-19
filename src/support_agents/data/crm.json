@@ -1,0 +1,11 @@
+{
+  "customers": [
+    {"id": "CUST-1", "name": "Aisha Khan", "email": "aisha@example.com", "country": "AE", "membership": "plus", "orders": ["ORD-1001", "ORD-1002"]},
+    {"id": "CUST-2", "name": "Rohan Mehta", "email": "rohan@example.com", "country": "IN", "membership": "standard", "orders": ["ORD-1003"]}
+  ],
+  "orders": [
+    {"id": "ORD-1001", "customer_id": "CUST-1", "item": "Orbit Buds Pro (earbuds)", "category": "headphones", "total_usd": 129.0, "status": "delivered", "delivered_on": "2026-10-01"},
+    {"id": "ORD-1002", "customer_id": "CUST-1", "item": "Orbit 27-inch 4K Monitor", "category": "monitors", "total_usd": 349.0, "status": "shipped", "delivered_on": null},
+    {"id": "ORD-1003", "customer_id": "CUST-2", "item": "Orbit Mechanical Keyboard", "category": "accessories", "total_usd": 89.5, "status": "delivered", "delivered_on": "2026-10-10"}
+  ]
+}
