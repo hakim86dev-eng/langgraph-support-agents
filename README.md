@@ -1,6 +1,6 @@
 # langgraph-support-agents
 
-[![CI](https://github.com/YOUR_GITHUB_USERNAME/langgraph-support-agents/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_GITHUB_USERNAME/langgraph-support-agents/actions/workflows/ci.yml)
+[![CI](https://github.com/hakimdev86-eng/langgraph-support-agents/actions/workflows/ci.yml/badge.svg)](https://github.com/hakimdev86-eng/langgraph-support-agents/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.11%20%7C%203.12%20%7C%203.13-blue)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1.x-1C3C3C)
 ![License](https://img.shields.io/badge/license-MIT-green)

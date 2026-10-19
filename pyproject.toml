@@ -9,7 +9,7 @@ description = "Multi-agent customer-support backend: LangGraph planner, tool-usi
 readme = "README.md"
 requires-python = ">=3.11"
 license = { text = "MIT" }
-authors = [{ name = "Hakim Rashid", email = "hakimrashid207@gmail.com" }]
+authors = [{ name = "Hakim Rashid", email = "hakim86.dev@gmail.com" }]
 keywords = ["langgraph", "langchain", "agents", "multi-agent", "fastapi", "llm"]
 classifiers = [
   "Programming Language :: Python :: 3",
