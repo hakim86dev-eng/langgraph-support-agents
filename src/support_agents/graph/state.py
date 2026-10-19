@@ -3,9 +3,12 @@
 from __future__ import annotations
 
 import operator
-from typing import Annotated, Any, Literal, TypedDict
+from typing import Annotated, Any, Literal
 
 from pydantic import BaseModel, Field
+
+# typing_extensions.TypedDict is required by Pydantic on Python < 3.12.
+from typing_extensions import TypedDict
 
 from support_agents.tools.registry import WorkerName
 
